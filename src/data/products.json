@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "title": "Category 1",
+    "catImg": "orange.png",
+    "isOpen": false,
+    "data": [
+      {
+        "id": "1",
+        "name": "Pink",
+        "size": "0.4",
+        "hex": "#DF6997",
+        "isChecked": false
+      },
+      {
+        "id": "2",
+        "name": "Orange",
+        "size": "0.45",
+        "hex": "#E6863E",
+        "isChecked": false
+      },
+      {
+        "id": "3",
+        "name": "Red",
+        "size": "0.5",
+        "hex": "#DA374A",
+        "isChecked": false
+      },
+      {
+        "id": "4",
+        "name": "Blue",
+        "size": "0.6",
+        "hex": "#54B9E2",
+        "isChecked": false
+      },
+      {
+        "id": "5",
+        "name": "Yellow",
+        "size": "0.7",
+        "hex": "#F9DE6D",
+        "isChecked": false
+      },
+      {
+        "id": "6",
+        "name": "Green",
+        "size": "0.8",
+        "hex": "#59B057",
+        "isChecked": false
+      },
+      {
+        "id": "7",
+        "name": "Purple",
+        "size": "0.8",
+        "hex": "#8F7DB5",
+        "isChecked": false
+      },
+      {
+        "id": "8",
+        "name": "Grey",
+        "size": "0.8",
+        "hex": "#A3ABB1",
+        "isChecked": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Category 2",
+    "catImg": "pink.png",
+    "isOpen": false,
+    "data": [
+      {
+        "id": "1",
+        "name": "Soft Pink",
+        "size": "0.4",
+        "hex": "#E9A3B4",
+        "isChecked": false
+      },
+      {
+        "id": "1",
+        "name": "Soft Green",
+        "size": "0.8",
+        "hex": "#8CAC89",
+        "isChecked": false
+      },
+      {
+        "id": "1",
+        "name": "Soft Orange",
+        "size": "0.45",
+        "hex": "#FF6A13",
+        "isChecked": false
+      },
+      {
+        "id": "1",
+        "name": "Soft Purple",
+        "size": "1.1",
+        "hex": "#9873AC",
+        "isChecked": false
+      },
+      {
+        "id": "1",
+        "name": "Soft Red",
+        "size": "0.5",
+        "hex": "#D50032",
+        "isChecked": false
+      },
+      {
+        "id": "1",
+        "name": "Soft Yellow",
+        "size": "0.7",
+        "hex": "#F3DD6D",
+        "isChecked": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Category 3",
+    "catImg": "green.png",
+    "isOpen": false,
+    "data": [
+      {
+        "id": "1",
+        "name": "",
+        "size": "M/L",
+
+        "hex": "#3fb0d9",
+        "isChecked": false
+      },
+      {
+        "id": "2",
+        "name": "",
+        "size": "XL",
+        "hex": "#8879b6",
+        "isChecked": false
+      },
+      {
+        "id": "3",
+        "name": "",
+        "size": "XS/S",
+        "hex": "#e58841",
+        "isChecked": false
+      }
+    ]
+  }
+]
